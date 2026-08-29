@@ -8,8 +8,8 @@
 Array, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 71.8 MB
 
 ---
 
