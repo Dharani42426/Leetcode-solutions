@@ -9,7 +9,7 @@ Math, Two Pointers, Brainteaser
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 41.4 MB
+- **Memory:** 42.3 MB
 
 ---
 
