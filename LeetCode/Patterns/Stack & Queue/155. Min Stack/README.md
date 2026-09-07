@@ -8,8 +8,8 @@
 Stack, Design
 
 ### 🚀 Performance
-- **Runtime:** 33 ms
-- **Memory:** 103.2 MB
+- **Runtime:** Successfully Evaluated
+- **Memory:** N/A
 
 ---
 
