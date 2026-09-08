@@ -8,8 +8,8 @@
 Array, Hash Table, Stack, Monotonic Stack
 
 ### 🚀 Performance
-- **Runtime:** 4 ms
-- **Memory:** 45.5 MB
+- **Runtime:** 3 ms
+- **Memory:** 45 MB
 
 ---
 
