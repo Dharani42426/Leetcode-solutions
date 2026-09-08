@@ -1,6 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character>stack = new Stack<>();
+        Deque<Character> stack = new ArrayDeque<>();
         for(char c : s.toCharArray()){
             if(c=='(' || c=='{' || c=='['){
                 stack.push(c);
@@ -13,6 +13,6 @@ class Solution {
                 if(c==']' && top!='[') return false;
             }
         }
-       return stack.isEmpty();
+        return stack.isEmpty();
     }
 }
