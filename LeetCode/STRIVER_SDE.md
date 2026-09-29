@@ -34,7 +34,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 
 ### 📂 Linked List
 - [ ] Reverse Linked List
-- [x] [Middle of the Linked List](./Java/Easy/876. Middle of the Linked List/)
+- [x] [Middle of the Linked List](./Java/Easy/908. Middle of the Linked List/)
 - [ ] Merge Two Sorted Lists
 - [ ] Remove Nth Node From End of List
 - [ ] Add Two Numbers

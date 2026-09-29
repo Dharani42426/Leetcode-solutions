@@ -15,7 +15,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [x] [Remove Linked List Elements](./Java/Easy/203. Remove Linked List Elements/)
 - [ ] Reverse Linked List
 - [ ] Delete Node in a Linked List
-- [x] [Middle of the Linked List](./Java/Easy/876. Middle of the Linked List/)
+- [x] [Middle of the Linked List](./Java/Easy/908. Middle of the Linked List/)
 - [ ] Convert Binary Number in a Linked List to Integer
 
 ### 📂 Module  1.2: Insertion, Deletion & Posit
